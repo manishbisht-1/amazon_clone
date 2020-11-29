@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/manishbisht-1/amazon_clone.git/static/css/main.ff3b7a0a.chunk.css",
+    "main.js": "/manishbisht-1/amazon_clone.git/static/js/main.785ebc09.chunk.js",
+    "main.js.map": "/manishbisht-1/amazon_clone.git/static/js/main.785ebc09.chunk.js.map",
+    "runtime-main.js": "/manishbisht-1/amazon_clone.git/static/js/runtime-main.ed52cbb6.js",
+    "runtime-main.js.map": "/manishbisht-1/amazon_clone.git/static/js/runtime-main.ed52cbb6.js.map",
+    "static/js/2.d1117d03.chunk.js": "/manishbisht-1/amazon_clone.git/static/js/2.d1117d03.chunk.js",
+    "static/js/2.d1117d03.chunk.js.map": "/manishbisht-1/amazon_clone.git/static/js/2.d1117d03.chunk.js.map",
+    "index.html": "/manishbisht-1/amazon_clone.git/index.html",
+    "precache-manifest.ea52657ab8a749e989ca63d34edcc111.js": "/manishbisht-1/amazon_clone.git/precache-manifest.ea52657ab8a749e989ca63d34edcc111.js",
+    "service-worker.js": "/manishbisht-1/amazon_clone.git/service-worker.js",
+    "static/css/main.ff3b7a0a.chunk.css.map": "/manishbisht-1/amazon_clone.git/static/css/main.ff3b7a0a.chunk.css.map",
+    "static/js/2.d1117d03.chunk.js.LICENSE.txt": "/manishbisht-1/amazon_clone.git/static/js/2.d1117d03.chunk.js.LICENSE.txt",
+    "static/media/ama2.png": "/manishbisht-1/amazon_clone.git/static/media/ama2.e34f255b.png",
+    "static/media/bannerImage.jpg": "/manishbisht-1/amazon_clone.git/static/media/bannerImage.d4f041cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed52cbb6.js",
+    "static/js/2.d1117d03.chunk.js",
+    "static/css/main.ff3b7a0a.chunk.css",
+    "static/js/main.785ebc09.chunk.js"
+  ]
+}
